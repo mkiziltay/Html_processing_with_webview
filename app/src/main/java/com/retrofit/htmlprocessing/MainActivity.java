@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-import static java.util.concurrent.CompletableFuture.completedFuture;
+
 
 public class MainActivity extends AppCompatActivity {
     WebView wb;
