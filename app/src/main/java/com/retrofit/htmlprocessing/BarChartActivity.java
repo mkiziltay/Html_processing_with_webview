@@ -41,6 +41,6 @@ public class BarChartActivity extends AppCompatActivity {
         barChart.setFitBars(true);
         barChart.setData(barData);
         barChart.getDescription().setText("Currencies Percentages");
-        barChart.animateY(2000); // animation chart from X to Y in 2 sec.
+        barChart.animateY(2000); // animation chart from X to Y in 2000 milisec.
     }
 }
