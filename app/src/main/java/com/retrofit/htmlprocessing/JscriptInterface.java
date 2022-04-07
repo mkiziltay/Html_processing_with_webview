@@ -45,7 +45,6 @@ public class JscriptInterface {
         public void showHTML(String html) {
             Log.i("datas","Full HTML ="+html);
             htmlData = html;
-            //MainActivity.callBack();
             /*
             Document doc = Jsoup.parse(html);
             Elements title = doc.select("body");
