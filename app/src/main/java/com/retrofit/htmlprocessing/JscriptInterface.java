@@ -45,27 +45,6 @@ public class JscriptInterface {
         public void showHTML(String html) {
             Log.i("datas","Full HTML ="+html);
             htmlData = html;
-            /*
-            Document doc = Jsoup.parse(html);
-            Elements title = doc.select("body");
-            title = title.replaceAll("");
-            Log.i("htmlx","HTML body ="+title.toString());
-            //Log.i("htmlx","test1"+title.text());
-            String body[] = title.text().split(",");
-            String titleArray[] = {"USDTRY", "EURTRY", "AUDTRY", "GBPTRY", "JPYTRY", "CHFTRY", "CADTRY", "NOKTRY", "EURUSD", "EURGBP", "EURJPY", "GBPUSD", "USDAUD", "USDJPY", "USDCHF", "USDCAD", "USDCNY"};
-            for(int i=0;i<body.length;i++){
-                String newTitle = null; int j=i;
-                if (j>9) { j=i%10;
-                    newTitle = titleArray[j];
-                }else {
-                    newTitle = titleArray[j];
-                }
-                String newBody = body[i].replaceAll("\"","").replaceAll("]","").replace("[{","").replace("{","").replace("}","");
-                String values = newBody.split(":")[1];
-                Log.i("htmlx", newTitle +"----" + values);
-                //Log.i("htmlx", body.length+"------"+j+ "----" + i);
-            }
-             */
         }
 
 
