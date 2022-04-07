@@ -18,7 +18,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 
-
 public class MainActivity extends AppCompatActivity {
     WebView wb;
     Button drawChart;
