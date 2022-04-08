@@ -13,3 +13,7 @@
 
 ## Used : Images & Vectors
 * No spesific images and vectors.
+
+## Used : Libraries
+### Bar Chart Library
+* implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
