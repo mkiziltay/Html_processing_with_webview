@@ -10,3 +10,6 @@
 * JscriptInterface.java
 * BarChartActivity.java
 * activity_main.xml => main layout
+
+## Used : Images & Vectors
+* No spesific images and vectors.
