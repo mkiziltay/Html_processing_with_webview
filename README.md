@@ -15,5 +15,8 @@
 * No spesific images and vectors.
 
 ## Used : Libraries
-###     Bar Chart Library
+  ### Bar Chart Library
 * implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
+
+## Screen View Example ( with Button )
+<img src="https://raw.githubusercontent.com/mkiziltay/CustomDialogPopup/main/ScreensView.JPG" alt = "Adding Reminders" width=394 height=851>
