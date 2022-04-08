@@ -19,4 +19,4 @@
 * implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
 
 ## Screen View Example ( with Button )
-<img src="https://raw.githubusercontent.com/mkiziltay/CustomDialogPopup/main/ScreensView.JPG" alt = "Adding Reminders" width=394 height=851>
+<img src="https://github.com/mkiziltay/Html_processing_with_webview/blob/master/chart.png" alt = "Sample Screenview" width=394 height=851>
